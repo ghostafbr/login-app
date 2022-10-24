@@ -22,7 +22,7 @@
     "core-js": "2.6.12",
     "rxjs": "6.6.7",
     "sweetalert2": "8.19.0",
-    "tslib": "1.14.1",
+    "tslib": "2.4.0",
     "zone.js": "0.11.8"
   },
   "devDependencies": {
